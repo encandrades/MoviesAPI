@@ -22,4 +22,4 @@ This application provides a simple authentication using Spring Security WebSecur
   
   - Response for the above request:
   
-{"Title":"Love Actually","Year":"2003","Genre":"Comedy, Drama, Romance","Director":"Richard Curtis","Actors":"Bill Nighy, Gregor Fisher, Rory MacGregor, Colin Firth","Country":"UK, USA, France","Awards":"Nominated for 2 Golden Globes. Another 10 wins & 24 nominations.","Poster":"http://ia.media-imdb.com/images/M/MV5BMTY4NjQ5NDc0Nl5BMl5BanBnXkFtZTYwNjk5NDM3._V1_SX300.jpg","Metascore":"55","imdbRating":"7.7","imdbVotes":"306,036","imdbID":"tt0314331","Type":"movie","Response":"True"}
+{"Title":"Love Actually","Year":"2003","Genre":"Comedy, Drama, Romance","Actors":"Bill Nighy, Gregor Fisher, Rory MacGregor, Colin Firth","Country":"UK, USA, France"}
