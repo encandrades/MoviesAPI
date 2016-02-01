@@ -1,0 +1,7 @@
+com\movies\controller\MoviesController.class
+com\movies\response\MoviesResponse.class
+com\movies\maps\Movie.class
+com\movies\security\AppSecurity.class
+com\movies\response\Response.class
+com\movies\moviesApp\App.class
+com\movies\service\MoviesAPIService.class
